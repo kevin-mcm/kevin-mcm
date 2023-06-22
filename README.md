@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### :fireworks: About me: Kevin Michael Cardenas Miranda :fireworks:
 
 _Note: this is my personnal account._
