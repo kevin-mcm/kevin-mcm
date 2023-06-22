@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**kevin-mcm/kevin-mcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fireworks: About me: Kevin Michael Cardenas Miranda :fireworks:
 
-Here are some ideas to get you started:
+_Note: this is my personnal account._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kevin-mcm&show_icons=true&theme=tokyonight&count_private=true)
+
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kevin-mcm&layout=compact&theme=tokyonight&count_private=true)
+
+
+---
+
+- :bulb: I love post-modern :star2: **C++** :star2:. Like **really**. Semantics & expressiveness in general, template-metaprogramming in particular.
+- :computer: I work as a C++ software engineeer.
+- :stars: I always enjoy spending some of my freetime on Github, check out my repos ! :sparkling_heart:
+
+---
