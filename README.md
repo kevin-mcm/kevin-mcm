@@ -28,8 +28,7 @@ _Note: this is my personnal account._
 
 ---
 
-- 💡 I love post-modern 🌟 **C++** 🌟. Like **really**. Semantics & expressiveness in general, template-metaprogramming in particular.
+- 💡 I love post-modern **C++**.
 - 💻 I work as a C++ software engineeer.
-- 🌠 I always enjoy spending some of my freetime on Github, check out my repos ! 💖
-
+- 🌠 I always enjoy spending some of my freetime on Github
 ---
